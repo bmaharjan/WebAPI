@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Product Page";
+}
+<div>
+    <h2>Display List of Products</h2>
+    <div id="list"></div>
+    <script type="text/javascript">       
+
+        //Product List
+        $.ajax({
+            type: 'GET',
+            url: 'http://localhost:5000/api/productlist/',
+            dataType: 'json',
+            success: function (result) {
+                var table = '<table class="table table-hover"><thead><tr><th>Product ID</th><th>Name</th><th>Product Number</th><th>List Price</th><th>Action</th></tr></thead><tbody>';
+                var product = $.parseJSON(JSON.stringify(result));
+                for (var i in product) {
+                    table += '<tr><td>' + product[i].productID + '</td><td>' + product[i].name + '</td><td>' + product[i].productNumber + '</td><td>' + formatMoney(product[i].listPrice) + '</td><td><a href="Product/ProductDetail/' + product[i].productID + '">View</a></td></tr>';
+                }
+                table += '</tbody></table>';
+                $('#list').append(table);
+            }
+
+        });
+
+    </script>
+</div>

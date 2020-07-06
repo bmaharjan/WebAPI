@@ -1,0 +1,158 @@
+D:\RESTAPI\ProductListAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.deps.json
+D:\RESTAPI\ProductListAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.runtimeconfig.json
+D:\RESTAPI\ProductListAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.runtimeconfig.dev.json
+D:\RESTAPI\ProductListAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.dll
+D:\RESTAPI\ProductListAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.pdb
+D:\RESTAPI\ProductListAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.Views.dll
+D:\RESTAPI\ProductListAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.Views.pdb
+D:\RESTAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.csproj.CoreCompileInputs.cache
+D:\RESTAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.RazorAssemblyInfo.cache
+D:\RESTAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.RazorAssemblyInfo.cs
+D:\RESTAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.AssemblyInfoInputs.cache
+D:\RESTAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.AssemblyInfo.cs
+D:\RESTAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.TagHelpers.input.cache
+D:\RESTAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.TagHelpers.output.cache
+D:\RESTAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.RazorCoreGenerate.cache
+D:\RESTAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.g.cshtml.cs
+D:\RESTAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\Product\ProductDetail.g.cshtml.cs
+D:\RESTAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\RESTAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\RESTAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\RESTAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\RESTAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\RESTAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\RESTAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.RazorTargetAssemblyInfo.cache
+D:\RESTAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.RazorTargetAssemblyInfo.cs
+D:\RESTAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.Views.pdb
+D:\RESTAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.dll
+D:\RESTAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.pdb
+D:\RESTAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.csproj.CopyComplete
+D:\RESTAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.csprojAssemblyReference.cache
+D:\VS Code Projects\ProductListAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.deps.json
+D:\VS Code Projects\ProductListAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.runtimeconfig.json
+D:\VS Code Projects\ProductListAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.runtimeconfig.dev.json
+D:\VS Code Projects\ProductListAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.dll
+D:\VS Code Projects\ProductListAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.pdb
+D:\VS Code Projects\ProductListAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.Views.dll
+D:\VS Code Projects\ProductListAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.Views.pdb
+D:\VS Code Projects\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.csprojAssemblyReference.cache
+D:\VS Code Projects\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.csproj.CoreCompileInputs.cache
+D:\VS Code Projects\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.RazorAssemblyInfo.cache
+D:\VS Code Projects\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.RazorAssemblyInfo.cs
+D:\VS Code Projects\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.AssemblyInfoInputs.cache
+D:\VS Code Projects\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.AssemblyInfo.cs
+D:\VS Code Projects\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.TagHelpers.input.cache
+D:\VS Code Projects\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.TagHelpers.output.cache
+D:\VS Code Projects\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.RazorCoreGenerate.cache
+D:\VS Code Projects\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.RazorTargetAssemblyInfo.cache
+D:\VS Code Projects\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.RazorTargetAssemblyInfo.cs
+D:\VS Code Projects\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.Views.pdb
+D:\VS Code Projects\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.dll
+D:\VS Code Projects\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.pdb
+D:\VS Code Projects\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.csproj.CopyComplete
+D:\VS Code Projects\ProductListAPI\ProductListAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\VS Code Projects\ProductListAPI\ProductListAPI\bin\Debug\netcoreapp2.1\appsettings.json
+D:\VS Code Projects\ProductListAPI\ProductListAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\VS Code Projects\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\VS Code Projects\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\Product\ProductDetail.cshtml.g.cs
+D:\VS Code Projects\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\VS Code Projects\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\VS Code Projects\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\VS Code Projects\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\VS Code Projects\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\VS Code Projects\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\VS Code Projects\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.genruntimeconfig.cache
+C:\Users\Bikeshcha\Downloads\ProductListAPI\ProductListAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.deps.json
+C:\Users\Bikeshcha\Downloads\ProductListAPI\ProductListAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.runtimeconfig.json
+C:\Users\Bikeshcha\Downloads\ProductListAPI\ProductListAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.runtimeconfig.dev.json
+C:\Users\Bikeshcha\Downloads\ProductListAPI\ProductListAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.dll
+C:\Users\Bikeshcha\Downloads\ProductListAPI\ProductListAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.pdb
+C:\Users\Bikeshcha\Downloads\ProductListAPI\ProductListAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.Views.dll
+C:\Users\Bikeshcha\Downloads\ProductListAPI\ProductListAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.Views.pdb
+C:\Users\Bikeshcha\Downloads\ProductListAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.csprojAssemblyReference.cache
+C:\Users\Bikeshcha\Downloads\ProductListAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.csproj.CoreCompileInputs.cache
+C:\Users\Bikeshcha\Downloads\ProductListAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.RazorAssemblyInfo.cache
+C:\Users\Bikeshcha\Downloads\ProductListAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.RazorAssemblyInfo.cs
+C:\Users\Bikeshcha\Downloads\ProductListAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.AssemblyInfoInputs.cache
+C:\Users\Bikeshcha\Downloads\ProductListAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.AssemblyInfo.cs
+C:\Users\Bikeshcha\Downloads\ProductListAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.TagHelpers.input.cache
+C:\Users\Bikeshcha\Downloads\ProductListAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.TagHelpers.output.cache
+C:\Users\Bikeshcha\Downloads\ProductListAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.RazorCoreGenerate.cache
+C:\Users\Bikeshcha\Downloads\ProductListAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.g.cshtml.cs
+C:\Users\Bikeshcha\Downloads\ProductListAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\Product\ProductDetail.g.cshtml.cs
+C:\Users\Bikeshcha\Downloads\ProductListAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Bikeshcha\Downloads\ProductListAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Bikeshcha\Downloads\ProductListAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Bikeshcha\Downloads\ProductListAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Bikeshcha\Downloads\ProductListAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Bikeshcha\Downloads\ProductListAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Bikeshcha\Downloads\ProductListAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Bikeshcha\Downloads\ProductListAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.RazorTargetAssemblyInfo.cs
+C:\Users\Bikeshcha\Downloads\ProductListAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.Views.pdb
+C:\Users\Bikeshcha\Downloads\ProductListAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.dll
+C:\Users\Bikeshcha\Downloads\ProductListAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.pdb
+C:\Users\Bikeshcha\Downloads\ProductListAPI\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.csproj.CopyComplete
+F:\ProductListAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.deps.json
+F:\ProductListAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.runtimeconfig.json
+F:\ProductListAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.runtimeconfig.dev.json
+F:\ProductListAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.dll
+F:\ProductListAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.pdb
+F:\ProductListAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.Views.dll
+F:\ProductListAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.Views.pdb
+F:\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.csprojAssemblyReference.cache
+F:\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.csproj.CoreCompileInputs.cache
+F:\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.RazorAssemblyInfo.cache
+F:\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.RazorAssemblyInfo.cs
+F:\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.AssemblyInfoInputs.cache
+F:\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.AssemblyInfo.cs
+F:\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.TagHelpers.input.cache
+F:\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.TagHelpers.output.cache
+F:\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.RazorCoreGenerate.cache
+F:\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.g.cshtml.cs
+F:\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\Product\ProductDetail.g.cshtml.cs
+F:\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+F:\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.RazorTargetAssemblyInfo.cache
+F:\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.RazorTargetAssemblyInfo.cs
+F:\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.Views.pdb
+F:\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.dll
+F:\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.pdb
+F:\ProductListAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.csproj.CopyComplete
+F:\WebAPI\ProductListAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+F:\WebAPI\ProductListAPI\bin\Debug\netcoreapp2.1\appsettings.json
+F:\WebAPI\ProductListAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\WebAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.deps.json
+F:\WebAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.runtimeconfig.json
+F:\WebAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.runtimeconfig.dev.json
+F:\WebAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.dll
+F:\WebAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.pdb
+F:\WebAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.Views.dll
+F:\WebAPI\ProductListAPI\bin\Debug\netcoreapp2.1\ProductListAPI.Views.pdb
+F:\WebAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.csprojAssemblyReference.cache
+F:\WebAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.csproj.CoreCompileInputs.cache
+F:\WebAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.RazorAssemblyInfo.cache
+F:\WebAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.RazorAssemblyInfo.cs
+F:\WebAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.AssemblyInfoInputs.cache
+F:\WebAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.AssemblyInfo.cs
+F:\WebAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.TagHelpers.input.cache
+F:\WebAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.TagHelpers.output.cache
+F:\WebAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.RazorCoreGenerate.cache
+F:\WebAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.cshtml.g.cs
+F:\WebAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\Product\ProductDetail.cshtml.g.cs
+F:\WebAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\WebAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\WebAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\WebAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\WebAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\WebAPI\ProductListAPI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\WebAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.RazorTargetAssemblyInfo.cache
+F:\WebAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.RazorTargetAssemblyInfo.cs
+F:\WebAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.Views.pdb
+F:\WebAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.dll
+F:\WebAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.pdb
+F:\WebAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.genruntimeconfig.cache
+F:\WebAPI\ProductListAPI\obj\Debug\netcoreapp2.1\ProductListAPI.csproj.CopyComplete

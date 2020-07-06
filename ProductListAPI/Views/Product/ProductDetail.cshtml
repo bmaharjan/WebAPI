@@ -1,0 +1,56 @@
+﻿@{
+    ViewData["Title"] = "Product Detail Page";
+}
+
+<div class="container">
+
+    <h2>Product Detail</h2>
+    <div id="detail"></div>
+    <br>
+    <h2>Cost History</h2>
+
+    <div id="history"></div>
+
+    <script type="text/javascript">
+
+        var id = @ViewData["id"];
+
+        //Product Detail
+        $.ajax({
+            type: 'GET',
+            url: 'http://localhost:5000/api/productlist/' + id,
+            dataType: 'json',
+            success: function (result) {
+                var table = '<table class="table table-striped" ><thead><tr><th>Field Name</th><th>Field Value</th></thead><tbody>';
+                table += '<tr><td>Product ID</td><td>' + result.productID + '</td></tr>';
+                table += '<tr><td>Name</td><td>' + result.name + '</td></tr>';
+                table += '<tr><td>Color</td><td>' + ((result.color) != null ? (result.color) : '') + '</td></tr>';
+                table += '<tr><td>Size</td><td>' + ((result.size) != null ? (result.size) : '') + '</td></tr></tbody></table>';
+                $('#detail').append(table);
+            }
+
+        });
+
+        //Product Cost History
+        $.ajax({
+            type: 'GET',
+            url: 'http://localhost:5000/api/productcosthistory/' + id,
+            dataType: 'json',
+            success: function (result) {
+                if (result == '') {
+                    $('#history').append('<b>No product cost available</b>');
+                }
+                else {
+                    var hist = $.parseJSON(JSON.stringify(result));
+                    var table = '<table class="table table-striped"><thead><tr><th>Start Date</th><th>End Date</th><th>Standard Cost</th></tr></thead><tbody>';
+                    for (var i in hist) {
+                        table += '<tr><td>' + new Date(hist[i].startDate).toLocaleString() + '</td><td>' + ((hist[i].endDate) != null ? (new Date(hist[i].endDate).toLocaleString()) : '') + '</td><td>' + formatMoney(hist[i].standardCost) + '</td></tr>';
+                    }
+                    table += '</tbody></table>';
+                    $('#history').append(table);
+                }
+            }
+        });
+
+    </script>
+</div>
